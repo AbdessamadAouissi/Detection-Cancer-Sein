@@ -22,3 +22,5 @@ To monitor and measure the performance of our models (during training and testin
 # Conclusion
 It was a very interesting project especially because of the importance of this medical subject which can help radiologist in making a more accurate decision and contribute in the reduction of the mortality rate through early detection of cancer. And we have learned a lot of new skills about CNN models, transfer learning and image processing techniques.
 
+### Link of Data : https://drive.google.com/file/d/1cTB8qqVmYtiRY2QxY0MceTj98jwFnE3H/view?usp=sharing
+
